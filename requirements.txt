@@ -1,0 +1,9 @@
+streamlit==1.26.0
+transformers==4.33.2
+torch==2.0.1
+google-api-python-client==2.93.0
+yfinance==0.2.30
+requests==2.31.0
+numpy==1.24.4
+
+
