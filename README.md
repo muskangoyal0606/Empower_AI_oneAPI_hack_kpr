@@ -44,3 +44,31 @@ Unlike traditional platforms that rely on a few expert opinions, Empower_AI leve
 ### 🌱 **Recognizing the Unrecognized**
 We specialize in uncovering hidden opportunities in renewable energy stocks, identifying promising investments that others might overlook.
 
+## **Tech Stack**
+Here’s a concise bullet-point explanation of the tech stack and the roles of the tools used in the web app for your GitHub README file:
+
+### Tech Stack Overview
+- **Intel OneAPI AI Analytics Toolkit**: Optimizes machine learning and numerical computations, especially for large datasets and performance-intensive tasks like technical analysis.
+- **One DAAL**: intel data analytics library for analysis of stocks
+
+- **Python**: Core programming language used to build the entire backend logic and data handling of the web app.
+  
+- **Streamlit**: Provides the interactive and user-friendly interface, enabling the creation of a web app dashboard for stock analysis.
+
+- **Yahoo Finance API**: Fetches real-time stock market data, such as price history, fundamental data (like P/E ratio, earnings), and other key metrics for analysis.
+
+- **Transformers (Hugging Face)**: Powers the app's natural language processing tasks, enabling advanced models to assist with sentiment analysis if needed.
+
+- **Pandas**: Used for handling and manipulating stock data, providing efficient ways to clean, analyze, and visualize data.
+
+- **NumPy**: Supports mathematical operations, including array manipulation and numerical analysis for technical stock metrics.
+
+- **Torch (PyTorch)**: Deep learning framework used for complex machine learning models, allowing for predictions and more advanced computations.
+
+- **virtualenv**: Isolates the Python environment, ensuring that all dependencies and packages are managed cleanly, avoiding conflicts.
+
+### Instructions for Running the App
+
+This breakdown ensures clarity on the roles of each tool and technology in your web app project.
+
+
