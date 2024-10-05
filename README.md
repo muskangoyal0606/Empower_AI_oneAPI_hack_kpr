@@ -4,6 +4,8 @@
 
 Empower_AI is designed to break down barriers to stock market investments and promote renewable energy investments in India. With advanced AI analysis, we make complex financial decisions simpler, smarter, and more accessible to all.
 
+## **Empowe_AI (Checkout our website)** https://kprit-hackathon-o25h.vercel.app/
+
 ## **Empower_AI: powered by intel oneAPI** https://huggingface.co/spaces/muskangoyal06/Investo_AI (Deployed on hugging face)
 
 ## **The Problem We're Solving**
@@ -45,9 +47,6 @@ Unlike traditional platforms that rely on a few expert opinions, Empower_AI leve
 We specialize in uncovering hidden opportunities in renewable energy stocks, identifying promising investments that others might overlook.
 
 ## **Tech Stack**
-Here’s a concise bullet-point explanation of the tech stack and the roles of the tools used in the web app for your GitHub README file:
-
-### Tech Stack Overview
 - **Intel OneAPI AI Analytics Toolkit**: Optimizes machine learning and numerical computations, especially for large datasets and performance-intensive tasks like technical analysis.
 - **One DAAL**: intel data analytics library for analysis of stocks
 
@@ -67,8 +66,5 @@ Here’s a concise bullet-point explanation of the tech stack and the roles of t
 
 - **virtualenv**: Isolates the Python environment, ensuring that all dependencies and packages are managed cleanly, avoiding conflicts.
 
-### Instructions for Running the App
-
-This breakdown ensures clarity on the roles of each tool and technology in your web app project.
 
 
